@@ -1,31 +1,762 @@
 Marca,Modelo,Cilindrada,Versión,Potencia,Año lanzamiento,Año matriculación,Edad actual,Código postal,Tipo carnet,Edad carnet,Tipo seguro,Precio mínimo
-APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,08001,A1 (para conducir motos de hasta 125cc),-19,Terceros sin asistencia en viaje,442€
-APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,08001,A1 (para conducir motos de hasta 125cc),-19,Terceros con asistencia en viaje,459€
-APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,08001,A1 (para conducir motos de hasta 125cc),-19,Terceros ampliado,1.340€
-APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-19,Terceros sin asistencia en viaje,371€
-APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-19,Terceros con asistencia en viaje,388€
-APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-19,Terceros ampliado,1.340€
-APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,08001,Licencia de ciclomotor,-19,Terceros sin asistencia en viaje,460€
-APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,08001,Licencia de ciclomotor,-19,Terceros con asistencia en viaje,477€
-APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,28001,A1 (para conducir motos de hasta 125cc),-19,Terceros sin asistencia en viaje,361€
-APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,28001,A1 (para conducir motos de hasta 125cc),-19,Terceros con asistencia en viaje,378€
-APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,28001,A1 (para conducir motos de hasta 125cc),-19,Terceros ampliado,1.152€
-APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-19,Terceros sin asistencia en viaje,304€
-APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-19,Terceros con asistencia en viaje,320€
-APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-19,Terceros ampliado,1.152€
-APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,28001,Licencia de ciclomotor,-19,Terceros sin asistencia en viaje,366€
-APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,28001,Licencia de ciclomotor,-19,Terceros con asistencia en viaje,382€
-APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),-22,Terceros sin asistencia en viaje,342€
-APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),-22,Terceros con asistencia en viaje,359€
-APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),-22,Terceros ampliado,1.340€
-APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),-19,Terceros sin asistencia en viaje,239€
-APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),-19,Terceros con asistencia en viaje,256€
-APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),-19,Terceros ampliado,790€
-APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-22,Terceros sin asistencia en viaje,307€
-APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-22,Terceros con asistencia en viaje,324€
-APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-22,Terceros ampliado,1.340€
-APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-19,Terceros sin asistencia en viaje,210€
-APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-19,Terceros con asistencia en viaje,227€
-APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-19,Terceros ampliado,790€
-APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,08001,Licencia de ciclomotor,-22,Terceros sin asistencia en viaje,410€
-APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,08001,Licencia de ciclomotor,-22,Terceros con asistencia en viaje,426€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,423€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,440€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.340€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,356€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,372€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.340€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,428€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,445€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,337€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,353€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.152€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,283€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,300€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.152€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,341€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,19,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,357€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,319€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,335€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,1.340€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,223€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,240€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,790€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,286€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,303€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,1.340€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,196€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,213€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,790€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,08001,Licencia de ciclomotor,22,Terceros sin asistencia en viaje,382€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,08001,Licencia de ciclomotor,22,Terceros con asistencia en viaje,398€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,259€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,275€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,254€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,271€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,1.152€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,179€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,195€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,671€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,228€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,245€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,1.152€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,157€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,174€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,671€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,28001,Licencia de ciclomotor,22,Terceros sin asistencia en viaje,304€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,28001,Licencia de ciclomotor,22,Terceros con asistencia en viaje,320€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,207€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,22,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,223€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,134€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,271€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,851€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,134€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,199€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,519€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,134€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,156€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,443€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,134€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,246€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,851€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,134€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,178€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,519€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,124€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,141€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,443€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,08001,Licencia de ciclomotor,26,Terceros sin asistencia en viaje,162€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,08001,Licencia de ciclomotor,26,Terceros con asistencia en viaje,330€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,08001,Licencia de ciclomotor,23,Terceros sin asistencia en viaje,162€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,08001,Licencia de ciclomotor,23,Terceros con asistencia en viaje,241€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,162€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,187€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,163€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,220€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,723€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,112€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,129€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,367€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,163€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,200€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,723€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,130€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,147€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,433€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,100€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,117€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,367€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,28001,Licencia de ciclomotor,26,Terceros sin asistencia en viaje,197€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,28001,Licencia de ciclomotor,26,Terceros con asistencia en viaje,267€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,28001,Licencia de ciclomotor,23,Terceros sin asistencia en viaje,180€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,28001,Licencia de ciclomotor,23,Terceros con asistencia en viaje,196€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,137€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2019,26,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,154€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,435€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,452€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.340€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,366€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,382€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.340€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,19,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,441€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,19,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,457€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,346€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,363€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.152€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,291€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,308€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.152€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,19,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,350€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,19,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,367€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,328€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,344€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,1.340€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,230€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,246€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,825€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,294€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,311€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,1.340€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,202€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,218€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,825€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,08001,Licencia de ciclomotor,22,Terceros sin asistencia en viaje,393€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,08001,Licencia de ciclomotor,22,Terceros con asistencia en viaje,409€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,266€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,283€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,261€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,278€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,1.152€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,184€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,200€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,701€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,235€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,251€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,1.152€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,162€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,178€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,701€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,28001,Licencia de ciclomotor,22,Terceros sin asistencia en viaje,312€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,28001,Licencia de ciclomotor,22,Terceros con asistencia en viaje,329€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,213€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,22,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,229€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,134€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,278€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,851€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,134€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,204€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,540€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,134€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,159€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,461€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,134€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,252€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,851€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,134€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,183€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,540€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,127€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,144€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,461€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,08001,Licencia de ciclomotor,26,Terceros sin asistencia en viaje,162€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,08001,Licencia de ciclomotor,26,Terceros con asistencia en viaje,339€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,08001,Licencia de ciclomotor,23,Terceros sin asistencia en viaje,162€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,08001,Licencia de ciclomotor,23,Terceros con asistencia en viaje,247€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,162€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,192€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,163€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,226€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,723€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,150€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,167€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,452€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,115€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,132€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,382€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,163€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,205€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,723€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,134€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,150€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,452€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,103€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,120€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,382€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,28001,Licencia de ciclomotor,26,Terceros sin asistencia en viaje,197€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,28001,Licencia de ciclomotor,26,Terceros con asistencia en viaje,274€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,28001,Licencia de ciclomotor,23,Terceros sin asistencia en viaje,184€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,28001,Licencia de ciclomotor,23,Terceros con asistencia en viaje,201€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,197€
+APRILIA,SR 50,50 cc,SR 50 MOTARD,4 CV,2019,2021,26,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,278€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,419€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,436€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.352€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,352€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,369€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.352€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,19,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,424€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,19,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,441€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,333€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,350€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.158€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,281€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,297€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.158€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,19,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,337€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,19,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,354€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,316€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,332€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,1.352€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,221€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,238€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,775€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,284€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,300€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,1.352€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,194€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,211€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,775€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,08001,Licencia de ciclomotor,22,Terceros sin asistencia en viaje,378€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,08001,Licencia de ciclomotor,22,Terceros con asistencia en viaje,395€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,256€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,273€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,252€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,268€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,1.158€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,177€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,194€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,653€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,226€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,243€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,1.158€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,156€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,173€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,653€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,28001,Licencia de ciclomotor,22,Terceros sin asistencia en viaje,301€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,28001,Licencia de ciclomotor,22,Terceros con asistencia en viaje,317€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,205€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,22,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,221€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,134€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,269€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,863€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,134€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,197€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,515€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,134€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,154€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,442€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,134€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,244€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,863€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,134€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,177€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,515€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,123€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,139€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,442€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,08001,Licencia de ciclomotor,26,Terceros sin asistencia en viaje,162€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,08001,Licencia de ciclomotor,26,Terceros con asistencia en viaje,327€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,08001,Licencia de ciclomotor,23,Terceros sin asistencia en viaje,162€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,08001,Licencia de ciclomotor,23,Terceros con asistencia en viaje,239€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,162€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,186€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,163€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,218€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,730€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,145€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,162€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,425€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,111€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,128€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,362€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,163€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,199€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,730€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,129€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,146€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,425€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,100€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,116€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,362€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,28001,Licencia de ciclomotor,26,Terceros sin asistencia en viaje,197€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,28001,Licencia de ciclomotor,26,Terceros con asistencia en viaje,264€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,28001,Licencia de ciclomotor,23,Terceros sin asistencia en viaje,178€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,28001,Licencia de ciclomotor,23,Terceros con asistencia en viaje,194€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,136€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2018,26,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,153€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,435€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,452€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.352€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,366€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,382€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.352€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,19,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,441€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,19,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,457€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,346€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,363€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.158€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,291€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,308€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.158€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,19,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,350€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,19,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,367€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,328€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,344€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,1.352€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,230€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,246€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,824€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,294€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,311€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,1.352€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,202€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,218€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,824€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,08001,Licencia de ciclomotor,22,Terceros sin asistencia en viaje,393€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,08001,Licencia de ciclomotor,22,Terceros con asistencia en viaje,409€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,266€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,283€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,261€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,278€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,1.158€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,184€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,200€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,696€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,235€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,251€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,1.158€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,162€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,178€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,696€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,28001,Licencia de ciclomotor,22,Terceros sin asistencia en viaje,312€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,28001,Licencia de ciclomotor,22,Terceros con asistencia en viaje,329€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,213€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,22,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,229€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,134€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,278€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,863€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,134€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,204€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,544€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,134€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,159€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,466€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,134€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,252€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,863€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,134€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,183€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,544€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,127€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,144€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,466€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,08001,Licencia de ciclomotor,26,Terceros sin asistencia en viaje,162€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,08001,Licencia de ciclomotor,26,Terceros con asistencia en viaje,339€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,08001,Licencia de ciclomotor,23,Terceros sin asistencia en viaje,162€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,08001,Licencia de ciclomotor,23,Terceros con asistencia en viaje,247€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,162€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,192€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,163€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,226€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,730€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,150€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,167€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,451€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,115€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,132€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,383€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,163€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,205€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,730€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,134€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,150€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,451€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,103€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,120€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,383€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,28001,Licencia de ciclomotor,26,Terceros sin asistencia en viaje,197€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,28001,Licencia de ciclomotor,26,Terceros con asistencia en viaje,274€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,28001,Licencia de ciclomotor,23,Terceros sin asistencia en viaje,184€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,28001,Licencia de ciclomotor,23,Terceros con asistencia en viaje,201€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,141€
+APRILIA,SR 50,50 cc,SR 50 R,4 CV,2018,2020,26,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,158€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,419€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,436€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.355€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,352€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,369€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.355€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,19,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,424€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,19,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,441€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,333€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,350€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.160€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,281€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,297€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.160€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,19,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,337€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,19,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,354€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,316€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,332€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,1.355€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,221€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,238€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,778€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,284€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,300€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,1.355€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,194€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,211€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,778€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,08001,Licencia de ciclomotor,22,Terceros sin asistencia en viaje,378€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,08001,Licencia de ciclomotor,22,Terceros con asistencia en viaje,395€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,256€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,273€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,252€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,268€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,1.160€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,177€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,194€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,655€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,226€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,243€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,1.160€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,156€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,173€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,655€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,28001,Licencia de ciclomotor,22,Terceros sin asistencia en viaje,301€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,28001,Licencia de ciclomotor,22,Terceros con asistencia en viaje,317€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,205€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,22,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,221€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,252€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,269€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,866€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,181€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,197€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,518€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,138€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,154€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,445€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,227€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,244€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,866€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,160€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,177€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,518€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,123€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,139€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,445€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,08001,Licencia de ciclomotor,26,Terceros sin asistencia en viaje,311€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,08001,Licencia de ciclomotor,26,Terceros con asistencia en viaje,327€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,08001,Licencia de ciclomotor,23,Terceros sin asistencia en viaje,222€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,08001,Licencia de ciclomotor,23,Terceros con asistencia en viaje,239€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,169€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,186€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,202€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,218€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,732€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,145€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,162€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,427€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,111€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,128€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,364€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,182€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,199€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,732€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,129€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,146€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,427€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,100€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,116€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,364€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,28001,Licencia de ciclomotor,26,Terceros sin asistencia en viaje,248€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,28001,Licencia de ciclomotor,26,Terceros con asistencia en viaje,264€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,28001,Licencia de ciclomotor,23,Terceros sin asistencia en viaje,178€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,28001,Licencia de ciclomotor,23,Terceros con asistencia en viaje,194€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,136€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2018,26,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,153€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,435€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,452€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.355€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,366€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,382€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.355€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,19,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,441€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,19,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,457€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,346€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,363€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.160€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,291€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,308€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.160€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,19,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,350€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,19,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,367€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,328€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,344€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,1.355€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,230€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,246€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,827€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,294€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,311€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,1.355€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,202€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,218€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,827€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,08001,Licencia de ciclomotor,22,Terceros sin asistencia en viaje,393€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,08001,Licencia de ciclomotor,22,Terceros con asistencia en viaje,409€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,266€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,283€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,270€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,286€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,1.160€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,190€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,206€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,697€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,242€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,259€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,1.160€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,167€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,183€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,697€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,28001,Licencia de ciclomotor,22,Terceros sin asistencia en viaje,312€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,28001,Licencia de ciclomotor,22,Terceros con asistencia en viaje,329€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,213€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,22,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,229€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,262€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,278€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,866€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,187€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,204€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,547€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,143€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,159€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,469€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,236€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,252€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,866€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,166€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,183€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,547€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,124€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,140€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,469€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,08001,Licencia de ciclomotor,26,Terceros sin asistencia en viaje,323€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,08001,Licencia de ciclomotor,26,Terceros con asistencia en viaje,339€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,08001,Licencia de ciclomotor,23,Terceros sin asistencia en viaje,230€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,08001,Licencia de ciclomotor,23,Terceros con asistencia en viaje,247€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,175€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,192€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,209€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,226€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,732€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,150€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,167€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,453€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,115€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,132€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,384€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,189€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,205€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,732€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,134€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,150€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,453€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,103€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,120€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,384€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,28001,Licencia de ciclomotor,26,Terceros sin asistencia en viaje,257€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,28001,Licencia de ciclomotor,26,Terceros con asistencia en viaje,274€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,28001,Licencia de ciclomotor,23,Terceros sin asistencia en viaje,184€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,28001,Licencia de ciclomotor,23,Terceros con asistencia en viaje,201€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,141€
+APRILIA,SR 50,50 cc,SR 50 R GP REPLICA,4 CV,2018,2020,26,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,158€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,306€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,323€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,577€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,1.081€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,258€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,275€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,487€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,918€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,252€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,269€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,476€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,887€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,213€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,230€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,403€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,754€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,242€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,259€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,457€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,914€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,171€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,188€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,324€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,570€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,217€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,235€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,412€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,775€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,150€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,167€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,286€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,520€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,200€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,217€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,378€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,751€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,142€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,159€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,270€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,471€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,180€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,197€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,341€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,638€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,125€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,142€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,239€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,430€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,200€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,217€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,379€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Todo riesgo con franquicia,742€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,144€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,161€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,275€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Todo riesgo con franquicia,475€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,92€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,128€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,165€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,227€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,180€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,198€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,342€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Todo riesgo con franquicia,672€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,128€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,146€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,245€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Todo riesgo con franquicia,422€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,99€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,116€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,191€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,334€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,161€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,178€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,270€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Todo riesgo con franquicia,592€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,117€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,134€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,223€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Todo riesgo con franquicia,381€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,88€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,110€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,161€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,222€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,149€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,166€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,270€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Todo riesgo con franquicia,551€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,107€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,124€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,205€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Todo riesgo con franquicia,348€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,83€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,100€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,161€
+APRILIA,SX,124 cc,SX 125 ABS,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,277€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,490€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,518€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,947€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,1.792€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,423€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,440€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,796€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,1.519€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,337€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,354€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,635€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,1.205€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,379€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,396€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,714€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,1.446€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,265€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,282€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,501€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,896€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,340€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,357€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,641€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,1.224€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,233€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,250€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,440€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,815€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,302€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,319€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,570€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,1.147€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,212€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,229€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,402€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,713€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,271€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,288€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,512€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,972€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,187€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,204€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,354€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,649€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,299€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,316€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,502€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Todo riesgo con franquicia,1.119€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,215€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,232€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,406€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Todo riesgo con franquicia,664€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,142€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,181€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,229€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,332€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,270€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,288€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,511€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Todo riesgo con franquicia,1.017€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,190€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,207€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,361€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Todo riesgo con franquicia,633€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,146€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,163€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,277€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,497€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,218€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,264€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,319€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Todo riesgo con franquicia,923€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,178€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,195€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,291€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Todo riesgo con franquicia,588€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,129€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,153€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,215€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,317€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,223€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,240€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,411€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Todo riesgo con franquicia,835€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,158€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,175€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,300€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Todo riesgo con franquicia,521€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,121€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,138€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,232€
+APRILIA,TUONO,124 cc,TUONO 125 V4 ABS,14 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,411€

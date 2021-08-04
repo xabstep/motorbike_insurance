@@ -1,41 +1,577 @@
 Marca,Modelo,Cilindrada,Versión,Potencia,Año lanzamiento,Año matriculación,Edad actual,Código postal,Tipo carnet,Edad carnet,Tipo seguro,Precio mínimo
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-19,Terceros sin asistencia en viaje,291€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-19,Terceros con asistencia en viaje,308€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-19,Terceros ampliado,549€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-19,Todo riesgo con franquicia,1.000€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,19,28001,A1 (para conducir motos de hasta 125cc),-19,Terceros sin asistencia en viaje,276€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,19,28001,A1 (para conducir motos de hasta 125cc),-19,Terceros con asistencia en viaje,293€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,19,28001,A1 (para conducir motos de hasta 125cc),-19,Terceros ampliado,520€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,19,28001,A1 (para conducir motos de hasta 125cc),-19,Todo riesgo con franquicia,936€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-19,Terceros sin asistencia en viaje,239€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-19,Terceros con asistencia en viaje,256€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-19,Terceros ampliado,451€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-19,Todo riesgo con franquicia,818€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),-22,Terceros sin asistencia en viaje,268€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),-22,Terceros con asistencia en viaje,286€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),-22,Terceros ampliado,507€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),-22,Todo riesgo con franquicia,979€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),-19,Terceros sin asistencia en viaje,189€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),-19,Terceros con asistencia en viaje,206€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),-19,Terceros ampliado,345€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),-19,Todo riesgo con franquicia,610€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-22,Terceros sin asistencia en viaje,241€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-22,Terceros con asistencia en viaje,258€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-22,Terceros ampliado,456€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-22,Todo riesgo con franquicia,830€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-19,Terceros sin asistencia en viaje,166€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-19,Terceros con asistencia en viaje,183€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-19,Terceros ampliado,316€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-19,Todo riesgo con franquicia,556€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),-22,Terceros sin asistencia en viaje,215€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),-22,Terceros con asistencia en viaje,232€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),-22,Terceros ampliado,406€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),-22,Todo riesgo con franquicia,779€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),-19,Terceros sin asistencia en viaje,152€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),-19,Terceros con asistencia en viaje,169€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),-19,Terceros ampliado,289€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),-19,Todo riesgo con franquicia,488€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-22,Terceros sin asistencia en viaje,193€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-22,Terceros con asistencia en viaje,210€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-22,Terceros ampliado,366€
-YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",-22,Todo riesgo con franquicia,661€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,331€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,348€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,624€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,1.127€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,279€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,296€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,526€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,957€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,264€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,281€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,499€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,896€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,223€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,240€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,422€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,762€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,250€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,267€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,473€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,911€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,177€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,194€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,335€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,569€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,225€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,242€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,426€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,773€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,156€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,173€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,296€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,519€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,200€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,217€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,380€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,726€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,142€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,159€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,271€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,455€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,180€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,198€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,342€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,617€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,126€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,143€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,240€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,416€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,201€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,218€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,345€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Todo riesgo con franquicia,717€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,145€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,162€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,251€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Todo riesgo con franquicia,359€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,111€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,128€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,213€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,357€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,181€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,198€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,344€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Todo riesgo con franquicia,649€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,129€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,146€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,246€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Todo riesgo con franquicia,359€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,100€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,117€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,191€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,323€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,161€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,178€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,306€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Todo riesgo con franquicia,573€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,117€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,134€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,224€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Todo riesgo con franquicia,359€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,91€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,108€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,175€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,288€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,146€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,163€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,278€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Todo riesgo con franquicia,519€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,105€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,122€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,201€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Todo riesgo con franquicia,329€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,81€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,99€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,158€
+YAMAHA,DELIGHT,125 cc,DELIGHT 125,8 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,261€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,373€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,390€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,702€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,1.322€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,314€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,331€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,592€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,1.122€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,297€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,314€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,560€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,1.050€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,250€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,268€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,473€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,892€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,282€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,299€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,531€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,1.068€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,198€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,215€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,375€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,665€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,253€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,270€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,478€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,905€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,174€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,191€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,331€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,605€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,225€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,242€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,426€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,849€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,159€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,176€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,303€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,531€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,203€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,220€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,384€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,721€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,140€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,157€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,268€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,484€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,225€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,242€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,390€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Todo riesgo con franquicia,839€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,159€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,176€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,296€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Todo riesgo con franquicia,489€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,124€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,141€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,237€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,415€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,203€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,220€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,385€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Todo riesgo con franquicia,759€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,144€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,161€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,275€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Todo riesgo con franquicia,475€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,111€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,128€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,213€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,375€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,181€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,198€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,302€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Todo riesgo con franquicia,669€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,131€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,148€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,250€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Todo riesgo con franquicia,429€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,101€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,118€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,194€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,334€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,163€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,180€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,302€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Todo riesgo con franquicia,606€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,117€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,134€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,223€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Todo riesgo con franquicia,381€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,90€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,108€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,174€
+YAMAHA,X-MAX,125 cc,X-MAX 125,12 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,302€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,373€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,390€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,736€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,1.397€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,314€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,331€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,620€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,1.185€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,297€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,314€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,587€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,1.108€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,250€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,268€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,495€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,941€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,282€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,299€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,556€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,1.128€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,198€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,215€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,393€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,701€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,253€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,270€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,500€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,956€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,174€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,191€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,346€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,639€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,225€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,242€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,445€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,896€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,159€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,176€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,316€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,560€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,203€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,220€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,401€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,760€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,140€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,157€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,279€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,510€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,225€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,242€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,398€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Todo riesgo con franquicia,886€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,159€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,176€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,304€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Todo riesgo con franquicia,513€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,124€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,141€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,248€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,437€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,203€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,220€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,398€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Todo riesgo con franquicia,801€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,144€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,161€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,287€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Todo riesgo con franquicia,501€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,111€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,128€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,222€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,395€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,181€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,198€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,303€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Todo riesgo con franquicia,706€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,131€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,148€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,261€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Todo riesgo con franquicia,452€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,101€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,118€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,202€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,351€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,163€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,180€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,303€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Todo riesgo con franquicia,639€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,117€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,134€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,233€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Todo riesgo con franquicia,402€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,90€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,108€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,182€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX,12 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,318€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,391€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,408€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,771€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,1.465€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,329€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,346€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,649€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,1.242€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,311€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,328€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,615€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,1.162€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,262€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,279€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,519€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,987€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,295€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,312€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,583€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,1.183€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,207€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,224€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,394€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,735€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,265€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,282€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,524€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,1.002€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,182€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,199€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,362€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,669€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,236€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,253€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,466€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,940€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,166€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,184€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,331€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,586€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,212€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,229€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,420€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,797€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,147€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,164€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,292€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,534€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,236€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,253€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,394€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Todo riesgo con franquicia,929€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,159€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,176€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,300€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Todo riesgo con franquicia,501€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,130€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,147€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,259€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,415€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,213€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,230€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,394€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Todo riesgo con franquicia,840€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,151€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,168€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,300€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Todo riesgo con franquicia,501€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,116€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,133€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,231€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,413€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,189€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,206€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,303€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Todo riesgo con franquicia,739€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,137€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,154€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,272€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Todo riesgo con franquicia,473€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,105€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,122€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,211€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,367€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,171€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,188€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,303€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Todo riesgo con franquicia,669€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,122€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,139€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,243€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Todo riesgo con franquicia,420€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,94€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,111€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,189€
+YAMAHA,X-MAX,125 cc,X-MAX 125 TECH MAX ABS,14 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,332€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,377€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,394€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,743€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,19,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,1.410€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,317€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,334€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,625€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,1.196€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,300€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,317€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,592€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,19,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,1.119€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,253€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,270€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,500€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,950€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,284€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,301€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,562€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,08001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,1.139€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,200€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,217€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,394€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,708€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,255€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,272€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,505€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,965€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,176€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,193€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,349€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,644€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,227€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,244€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,450€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,28001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,905€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,161€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,178€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,319€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,565€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,204€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,221€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,405€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,768€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,142€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,159€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,282€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,515€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,228€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,245€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,394€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),26,Todo riesgo con franquicia,894€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,159€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,176€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,300€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),23,Todo riesgo con franquicia,570€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,125€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,142€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,250€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,406€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,205€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,222€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,394€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Todo riesgo con franquicia,809€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,145€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,163€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,289€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Todo riesgo con franquicia,506€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,112€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,129€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,224€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,398€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,182€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,199€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,307€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),26,Todo riesgo con franquicia,712€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,132€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,149€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,263€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),23,Todo riesgo con franquicia,456€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,102€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,119€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,204€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,354€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,165€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,182€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,307€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Todo riesgo con franquicia,645€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,118€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,135€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,235€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Todo riesgo con franquicia,405€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,91€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,108€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,183€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,321€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,391€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,408€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,771€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,1.465€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,329€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,346€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,649€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,1.242€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,311€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,328€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,615€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,1.162€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,262€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,279€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,519€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,987€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,295€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,312€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,583€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,1.183€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,207€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,224€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,394€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,735€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,265€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,282€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,524€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,1.002€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,182€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,199€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,362€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,669€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,236€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,253€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,466€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,940€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,166€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,184€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,331€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,586€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,212€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,229€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,420€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,797€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,147€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,164€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,292€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,534€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,236€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,253€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,394€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Todo riesgo con franquicia,929€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,159€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,176€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,300€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Todo riesgo con franquicia,592€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,130€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,147€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,259€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,406€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,213€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,230€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,394€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Todo riesgo con franquicia,840€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,151€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,168€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,300€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Todo riesgo con franquicia,524€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,116€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,133€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,231€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,413€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,183€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,206€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,307€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Todo riesgo con franquicia,739€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,137€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,154€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,272€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Todo riesgo con franquicia,473€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,105€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,122€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,211€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,367€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,171€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,188€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,307€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Todo riesgo con franquicia,669€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,122€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,139€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,243€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Todo riesgo con franquicia,420€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,94€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,111€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,189€
+YAMAHA,X-MAX,125 cc,X-MAX 125 IRON MAX ABS,14 CV,2018,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,332€

@@ -1,0 +1,373 @@
+Marca,Modelo,Cilindrada,Versión,Potencia,Año lanzamiento,Año matriculación,Edad actual,Código postal,Tipo carnet,Edad carnet,Tipo seguro,Precio mínimo
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,378€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,395€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,711€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,1.288€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,318€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,335€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,599€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,1.093€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,301€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,318€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,567€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,1.023€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,254€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,271€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,479€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,869€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,285€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,302€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,538€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,1.041€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,200€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,218€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,368€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,648€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,256€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,273€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,484€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,882€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,176€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,193€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,335€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,590€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,224€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,241€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,423€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,812€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,158€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,175€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,301€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,508€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,201€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,218€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,381€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,689€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,139€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,157€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,266€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,463€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,215€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,232€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,361€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Todo riesgo con franquicia,769€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,155€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,172€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,265€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Todo riesgo con franquicia,364€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,119€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,136€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,226€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,305€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,194€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,211€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,367€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Todo riesgo con franquicia,696€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,138€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,155€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,262€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Todo riesgo con franquicia,364€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,106€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,123€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,204€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,345€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,160€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,184€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,238€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Todo riesgo con franquicia,613€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,125€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,142€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,216€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Todo riesgo con franquicia,364€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,96€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,114€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,182€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,290€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,156€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,173€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,296€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Todo riesgo con franquicia,555€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,111€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,128€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,213€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Todo riesgo con franquicia,351€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,87€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,104€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,167€
+HONDA,CB 125,124 cc,CB 125 F,11 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,279€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,374€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,391€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,704€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,1.327€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,315€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,332€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,594€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,1.125€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,298€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,315€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,562€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,1.053€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,251€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,268€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,475€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,895€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,283€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,300€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,533€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,1.072€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,199€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,216€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,377€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,667€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,254€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,271€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,480€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,908€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,175€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,192€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,332€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,607€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,222€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,239€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,419€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,836€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,157€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,174€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,298€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,523€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,199€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,216€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,378€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,709€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,138€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,155€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,264€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,477€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,213€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,230€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,365€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Todo riesgo con franquicia,791€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,153€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,170€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,289€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Todo riesgo con franquicia,454€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,118€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,135€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,225€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,305€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,192€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,209€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,364€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Todo riesgo con franquicia,716€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,136€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,153€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,260€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Todo riesgo con franquicia,449€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,105€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,122€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,202€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,355€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,162€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,186€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,241€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Todo riesgo con franquicia,631€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,124€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,141€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,219€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Todo riesgo con franquicia,405€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,96€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,113€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,184€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,290€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,154€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,171€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,294€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Todo riesgo con franquicia,571€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,110€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,128€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,212€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Todo riesgo con franquicia,361€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,86€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,103€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,166€
+HONDA,CB 125,125 cc,CB 125 R ABS,15 CV,2021,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,286€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,377€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,395€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,711€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,19,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,1.339€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,318€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,335€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,599€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,1.136€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,301€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,318€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,568€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,19,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,1.063€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,254€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,271€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,479€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,903€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,285€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,302€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,538€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,08001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,1.082€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,201€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,218€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,380€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,673€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,256€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,273€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,484€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,917€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,176€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,194€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,335€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,613€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,224€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,241€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,423€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,28001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,843€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,158€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,175€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,301€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,527€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,201€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,218€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,381€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,716€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,139€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,157€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,266€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,481€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,215€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,232€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,360€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),26,Todo riesgo con franquicia,799€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,155€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,172€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,285€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),23,Todo riesgo con franquicia,510€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,119€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,136€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,219€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,299€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,194€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,211€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,367€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Todo riesgo con franquicia,723€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,138€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,155€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,262€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Todo riesgo con franquicia,453€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,106€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,123€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,204€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,358€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,151€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,186€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,240€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),26,Todo riesgo con franquicia,637€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,125€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,142€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,219€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),23,Todo riesgo con franquicia,409€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,96€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,114€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,184€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,284€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,156€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,173€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,296€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Todo riesgo con franquicia,577€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,111€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,128€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,214€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Todo riesgo con franquicia,364€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,87€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,104€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,167€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2018,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,289€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,377€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,404€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,738€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,1.391€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,330€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,347€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,622€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,1.180€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,312€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,330€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,589€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,1.104€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,263€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,280€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,497€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,938€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,296€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,313€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,558€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,1.124€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,208€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,225€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,388€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,699€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,266€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,283€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,502€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,952€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,183€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,200€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,347€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,636€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,232€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,249€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,439€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,876€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,164€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,181€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,312€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,547€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,209€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,226€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,395€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,743€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,145€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,162€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,275€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,499€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,223€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,240€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,360€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Todo riesgo con franquicia,829€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,160€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,177€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,285€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Todo riesgo con franquicia,529€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,123€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,140€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,219€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,299€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,201€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,218€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,381€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Todo riesgo con franquicia,750€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,143€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,160€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,272€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Todo riesgo con franquicia,470€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,110€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,127€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,211€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,371€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,151€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,186€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,240€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Todo riesgo con franquicia,661€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,129€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,146€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,219€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Todo riesgo con franquicia,424€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,100€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,117€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,184€
+HONDA,CB 125,125 cc,CB 125 R ABS,13 CV,2018,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,284€
