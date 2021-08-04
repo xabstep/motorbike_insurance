@@ -1,813 +1,377 @@
 Marca,Modelo,Cilindrada,Versión,Potencia,Año lanzamiento,Año matriculación,Edad actual,Código postal,Tipo carnet,Edad carnet,Tipo seguro,Precio mínimo
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.912€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.912€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,19,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,19,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.606€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.606€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,19,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,19,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,1.912€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,834€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,864€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.152€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,1.912€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,834€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,864€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.152€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,08001,Licencia de ciclomotor,22,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,08001,Licencia de ciclomotor,22,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,834€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,864€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,1.606€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,730€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,759€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,940€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,1.606€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,730€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,759€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,940€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,28001,Licencia de ciclomotor,22,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,28001,Licencia de ciclomotor,22,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,730€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,22,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,759€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,927€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,956€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,1.252€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,504€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,533€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,793€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,134€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,176€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,694€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,927€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,956€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,1.252€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,504€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,533€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,793€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,411€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,441€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,694€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,08001,Licencia de ciclomotor,26,Terceros sin asistencia en viaje,927€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,08001,Licencia de ciclomotor,26,Terceros con asistencia en viaje,956€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,08001,Licencia de ciclomotor,23,Terceros sin asistencia en viaje,504€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,08001,Licencia de ciclomotor,23,Terceros con asistencia en viaje,533€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,411€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,441€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,811€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,840€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,1.028€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,441€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,470€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,626€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,149€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,191€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,539€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,811€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,840€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,1.028€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,441€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,470€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,626€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,360€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,389€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,539€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,28001,Licencia de ciclomotor,26,Terceros sin asistencia en viaje,811€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,28001,Licencia de ciclomotor,26,Terceros con asistencia en viaje,840€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,28001,Licencia de ciclomotor,23,Terceros sin asistencia en viaje,441€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,28001,Licencia de ciclomotor,23,Terceros con asistencia en viaje,470€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,360€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2019,26,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,389€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.912€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.912€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,19,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,19,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.606€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.606€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,1.912€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,895€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,925€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.218€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,1.912€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,895€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,925€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.218€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,08001,Licencia de ciclomotor,22,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,08001,Licencia de ciclomotor,22,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,895€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,925€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,1.606€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,784€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,813€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,998€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,1.606€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,784€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,813€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,998€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,28001,Licencia de ciclomotor,22,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,28001,Licencia de ciclomotor,22,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,784€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,22,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,813€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,927€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,956€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,1.252€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,540€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,570€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,833€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,134€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,176€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,726€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,927€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,956€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,1.252€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,540€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,570€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,833€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,442€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,471€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,726€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,08001,Licencia de ciclomotor,26,Terceros sin asistencia en viaje,927€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,08001,Licencia de ciclomotor,26,Terceros con asistencia en viaje,956€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,08001,Licencia de ciclomotor,23,Terceros sin asistencia en viaje,540€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,08001,Licencia de ciclomotor,23,Terceros con asistencia en viaje,570€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,442€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,471€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,811€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,840€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,1.028€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,473€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,502€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,661€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,149€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,191€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,568€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,811€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,840€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,1.028€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,473€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,502€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,661€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,386€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,416€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,568€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,28001,Licencia de ciclomotor,26,Terceros sin asistencia en viaje,811€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,28001,Licencia de ciclomotor,26,Terceros con asistencia en viaje,840€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,28001,Licencia de ciclomotor,23,Terceros sin asistencia en viaje,473€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,28001,Licencia de ciclomotor,23,Terceros con asistencia en viaje,502€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,386€
-PIAGGIO,APE,50 cc,APE 50 CROSS,3 CV,2019,2021,26,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,416€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.919€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.919€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,19,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,19,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.609€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.609€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,19,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,19,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,1.919€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,834€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,864€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.159€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,1.919€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,834€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,864€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.159€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,08001,Licencia de ciclomotor,22,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,08001,Licencia de ciclomotor,22,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,834€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,864€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,1.609€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,730€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,759€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,944€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,1.609€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,730€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,759€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,944€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,28001,Licencia de ciclomotor,22,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,28001,Licencia de ciclomotor,22,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,730€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,22,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,759€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,927€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,956€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,1.259€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,504€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,533€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,800€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,134€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,176€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,700€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,927€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,956€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,1.259€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,504€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,533€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,800€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,411€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,441€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,700€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,08001,Licencia de ciclomotor,26,Terceros sin asistencia en viaje,927€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,08001,Licencia de ciclomotor,26,Terceros con asistencia en viaje,956€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,08001,Licencia de ciclomotor,23,Terceros sin asistencia en viaje,504€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,08001,Licencia de ciclomotor,23,Terceros con asistencia en viaje,533€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,411€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,441€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,811€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,840€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,1.032€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,441€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,470€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,630€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,360€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,389€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,543€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,811€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,840€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,1.032€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,441€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,470€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,630€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,360€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,389€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,543€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,28001,Licencia de ciclomotor,26,Terceros sin asistencia en viaje,811€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,28001,Licencia de ciclomotor,26,Terceros con asistencia en viaje,840€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,28001,Licencia de ciclomotor,23,Terceros sin asistencia en viaje,441€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,28001,Licencia de ciclomotor,23,Terceros con asistencia en viaje,470€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,360€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2019,26,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,389€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.919€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.919€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,19,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,19,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.609€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.609€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,19,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,19,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,1.919€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,895€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,925€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.225€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,1.919€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,895€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,925€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.225€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,08001,Licencia de ciclomotor,22,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,08001,Licencia de ciclomotor,22,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,895€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,925€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,1.609€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,784€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,813€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.002€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,1.609€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,784€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,813€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.002€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,28001,Licencia de ciclomotor,22,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,28001,Licencia de ciclomotor,22,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,784€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,22,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,813€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,927€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,956€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,1.259€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,540€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,570€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,840€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,134€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,176€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,733€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,927€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,956€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,1.259€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,540€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,570€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,840€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,442€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,471€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,733€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,08001,Licencia de ciclomotor,26,Terceros sin asistencia en viaje,927€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,08001,Licencia de ciclomotor,26,Terceros con asistencia en viaje,956€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,08001,Licencia de ciclomotor,23,Terceros sin asistencia en viaje,540€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,08001,Licencia de ciclomotor,23,Terceros con asistencia en viaje,570€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,442€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,471€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,811€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,840€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,1.032€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,473€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,502€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,665€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,149€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,191€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,571€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,811€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,840€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,1.032€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,473€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,502€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,665€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,386€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,416€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,571€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,28001,Licencia de ciclomotor,26,Terceros sin asistencia en viaje,811€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,28001,Licencia de ciclomotor,26,Terceros con asistencia en viaje,840€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,28001,Licencia de ciclomotor,23,Terceros sin asistencia en viaje,473€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,28001,Licencia de ciclomotor,23,Terceros con asistencia en viaje,502€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,386€
-PIAGGIO,APE,50 cc,APE 50 FURGON,3 CV,2019,2021,26,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,416€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.901€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.901€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,19,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,19,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.600€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.600€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,19,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,19,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,1.901€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,834€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,864€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.141€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,1.901€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,834€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,864€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.141€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,08001,Licencia de ciclomotor,22,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,08001,Licencia de ciclomotor,22,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,834€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,864€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,1.600€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,730€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,759€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,934€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,1.600€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,730€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,759€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,934€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,28001,Licencia de ciclomotor,22,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,28001,Licencia de ciclomotor,22,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,730€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,22,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,759€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,927€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,956€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,1.241€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,504€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,533€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,782€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,134€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,176€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,683€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,927€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,956€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,1.241€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,504€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,533€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,782€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,411€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,441€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,683€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,08001,Licencia de ciclomotor,26,Terceros sin asistencia en viaje,927€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,08001,Licencia de ciclomotor,26,Terceros con asistencia en viaje,956€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,08001,Licencia de ciclomotor,23,Terceros sin asistencia en viaje,504€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,08001,Licencia de ciclomotor,23,Terceros con asistencia en viaje,533€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,411€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,441€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,811€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,840€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,1.022€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,441€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,470€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,620€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,149€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,191€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,533€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,811€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,840€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,1.022€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,441€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,470€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,620€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,360€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,389€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,533€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,28001,Licencia de ciclomotor,26,Terceros sin asistencia en viaje,811€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,28001,Licencia de ciclomotor,26,Terceros con asistencia en viaje,840€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,28001,Licencia de ciclomotor,23,Terceros sin asistencia en viaje,441€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,28001,Licencia de ciclomotor,23,Terceros con asistencia en viaje,470€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,360€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2019,26,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,389€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.901€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.901€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,19,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,19,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.600€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.600€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,19,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,19,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,1.901€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,895€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,925€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.207€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,1.901€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,895€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,925€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.207€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,08001,Licencia de ciclomotor,22,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,08001,Licencia de ciclomotor,22,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,895€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,925€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,1.600€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,784€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,813€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,992€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,1.600€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,784€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,813€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,992€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,28001,Licencia de ciclomotor,22,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,28001,Licencia de ciclomotor,22,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,784€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,22,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,813€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,927€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,956€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,1.241€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,540€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,570€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,822€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,134€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,176€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,715€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,927€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,956€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,1.241€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,540€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,570€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,822€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,442€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,471€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,715€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,08001,Licencia de ciclomotor,26,Terceros sin asistencia en viaje,927€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,08001,Licencia de ciclomotor,26,Terceros con asistencia en viaje,956€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,08001,Licencia de ciclomotor,23,Terceros sin asistencia en viaje,540€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,08001,Licencia de ciclomotor,23,Terceros con asistencia en viaje,570€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,442€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,471€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,811€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,840€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,1.022€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,473€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,502€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,655€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,149€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,191€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,562€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,811€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,840€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,1.022€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,473€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,502€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,655€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,386€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,416€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,562€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,28001,Licencia de ciclomotor,26,Terceros sin asistencia en viaje,811€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,28001,Licencia de ciclomotor,26,Terceros con asistencia en viaje,840€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,28001,Licencia de ciclomotor,23,Terceros sin asistencia en viaje,473€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,28001,Licencia de ciclomotor,23,Terceros con asistencia en viaje,502€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,386€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA C,3 CV,2019,2021,26,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,416€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.905€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.905€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,19,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,19,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.602€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.602€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,19,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,19,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,1.905€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,834€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,864€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.145€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,1.905€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,834€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,864€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.145€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,08001,Licencia de ciclomotor,22,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,08001,Licencia de ciclomotor,22,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,834€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,864€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,1.602€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,730€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,759€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,936€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,1.602€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,730€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,759€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,936€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,28001,Licencia de ciclomotor,22,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,28001,Licencia de ciclomotor,22,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,730€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,22,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,759€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,927€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,956€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,1.245€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,504€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,533€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,786€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,134€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,176€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,686€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,927€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,956€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,1.245€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,504€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,533€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,786€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,411€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,441€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,686€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,08001,Licencia de ciclomotor,26,Terceros sin asistencia en viaje,927€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,08001,Licencia de ciclomotor,26,Terceros con asistencia en viaje,956€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,08001,Licencia de ciclomotor,23,Terceros sin asistencia en viaje,504€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,08001,Licencia de ciclomotor,23,Terceros con asistencia en viaje,533€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,411€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,441€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,811€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,840€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,1.024€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,441€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,470€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,622€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,149€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,191€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,535€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,811€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,840€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,1.024€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,441€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,470€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,622€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,360€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,389€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,535€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,28001,Licencia de ciclomotor,26,Terceros sin asistencia en viaje,811€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,28001,Licencia de ciclomotor,26,Terceros con asistencia en viaje,840€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,28001,Licencia de ciclomotor,23,Terceros sin asistencia en viaje,441€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,28001,Licencia de ciclomotor,23,Terceros con asistencia en viaje,470€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,360€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2019,26,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,389€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.905€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.905€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,19,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,19,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.602€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.602€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,19,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,19,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,1.905€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,895€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,925€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.211€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,1.905€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,895€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,925€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.211€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,08001,Licencia de ciclomotor,22,Terceros sin asistencia en viaje,1.536€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,08001,Licencia de ciclomotor,22,Terceros con asistencia en viaje,1.565€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,895€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,925€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,1.602€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,784€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,813€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,994€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,1.602€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,784€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,813€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,994€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,28001,Licencia de ciclomotor,22,Terceros sin asistencia en viaje,1.344€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,28001,Licencia de ciclomotor,22,Terceros con asistencia en viaje,1.373€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,784€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,22,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,813€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,927€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,956€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,1.245€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,540€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,570€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,826€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,134€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,176€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,719€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,927€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,956€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,1.245€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,540€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,570€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,826€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,442€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,471€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,719€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,08001,Licencia de ciclomotor,26,Terceros sin asistencia en viaje,927€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,08001,Licencia de ciclomotor,26,Terceros con asistencia en viaje,956€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,08001,Licencia de ciclomotor,23,Terceros sin asistencia en viaje,540€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,08001,Licencia de ciclomotor,23,Terceros con asistencia en viaje,570€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,442€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,471€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,811€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,840€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,1.024€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,473€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,502€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,657€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,149€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,191€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,564€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,811€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,840€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,1.024€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,473€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,502€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,657€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,386€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,416€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,564€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,28001,Licencia de ciclomotor,26,Terceros sin asistencia en viaje,811€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,28001,Licencia de ciclomotor,26,Terceros con asistencia en viaje,840€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,386€
-PIAGGIO,APE,50 cc,APE 50 PLATAFORMA L,3 CV,2019,2021,26,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,416€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,328€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,345€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,618€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,19,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,1.117€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,276€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,293€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,521€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,949€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,262€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,279€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,494€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,19,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,888€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,221€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,238€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,418€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,755€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,248€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,265€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,469€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,903€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,175€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,192€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,332€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,564€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,223€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,240€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,422€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,766€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,154€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,171€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,293€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,514€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,199€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,216€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,376€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,719€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,141€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,158€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,269€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,452€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,179€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,196€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,340€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,611€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,125€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,142€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,238€
-PIAGGIO,LIBERTY 125,125 cc,LIBERTY 125 S I-GET ABS,11 CV,2021,2021,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,412€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,395€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,411€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,1.176€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,332€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,348€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,1.176€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,19,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,400€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,19,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,416€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,314€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,331€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,987€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,265€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,281€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,987€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,19,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,318€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,19,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,335€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,298€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,314€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,1.176€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,209€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,225€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,745€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,267€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,284€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,1.176€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,184€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,200€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,745€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,08001,Licencia de ciclomotor,22,Terceros sin asistencia en viaje,356€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,08001,Licencia de ciclomotor,22,Terceros con asistencia en viaje,373€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,242€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,258€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,237€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,254€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,987€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,167€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,184€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,610€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,214€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,230€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,987€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,147€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,164€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,610€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,28001,Licencia de ciclomotor,22,Terceros sin asistencia en viaje,284€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,28001,Licencia de ciclomotor,22,Terceros con asistencia en viaje,300€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,193€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,22,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,210€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,238€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,254€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,792€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,171€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,187€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,532€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,130€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,147€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,473€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,214€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,231€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,792€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,152€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,168€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,532€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,116€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,133€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,473€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,08001,Licencia de ciclomotor,26,Terceros sin asistencia en viaje,293€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,08001,Licencia de ciclomotor,26,Terceros con asistencia en viaje,310€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,08001,Licencia de ciclomotor,23,Terceros sin asistencia en viaje,210€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,08001,Licencia de ciclomotor,23,Terceros con asistencia en viaje,226€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,08001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,160€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,08001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,176€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,190€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,207€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,651€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,137€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,154€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,424€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,106€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,122€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,372€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,172€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,188€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,651€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,122€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,139€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,424€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,94€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,111€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,372€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,28001,Licencia de ciclomotor,26,Terceros sin asistencia en viaje,234€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,28001,Licencia de ciclomotor,26,Terceros con asistencia en viaje,250€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,28001,Licencia de ciclomotor,23,Terceros sin asistencia en viaje,168€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,28001,Licencia de ciclomotor,23,Terceros con asistencia en viaje,185€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,28001,Licencia de ciclomotor,19,Terceros sin asistencia en viaje,129€
+PIAGGIO,VESPA 50,50 cc,VESPA 50 SPRINT RACING SIXTIES,3 CV,2020,2020,26,28001,Licencia de ciclomotor,19,Terceros con asistencia en viaje,145€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,347€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,364€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,653€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,1.228€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,292€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,309€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,551€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,1.042€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,277€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,294€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,522€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,976€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,233€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,250€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,441€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,829€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,262€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,279€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,495€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,992€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,185€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,202€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,350€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,619€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,236€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,253€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,446€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,842€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,163€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,180€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,309€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,564€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,210€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,227€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,397€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,790€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,149€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,166€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,283€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,495€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,189€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,206€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,358€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,670€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,131€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,148€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,250€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,451€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,210€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,227€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,398€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Todo riesgo con franquicia,781€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,151€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,168€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,288€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Todo riesgo con franquicia,499€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,116€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,133€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,222€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,387€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,190€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,207€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,359€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Todo riesgo con franquicia,706€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,135€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,152€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,257€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Todo riesgo con franquicia,443€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,104€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,121€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,200€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,350€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,176€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,223€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,278€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Todo riesgo con franquicia,736€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,122€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,139€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,234€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Todo riesgo con franquicia,400€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,95€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,112€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,182€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,312€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,152€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,169€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,278€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Todo riesgo con franquicia,564€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,109€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,126€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,209€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Todo riesgo con franquicia,356€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,85€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,102€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,164€
+PIAGGIO,VESPA 125,125 cc,VESPA 125 SPRINT RACING SIXTIES,11 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,283€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,347€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,364€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,653€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,1.228€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,292€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,309€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,551€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,1.042€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,277€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,294€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,522€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,976€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,233€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,250€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,441€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,829€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,262€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,279€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,495€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,992€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,185€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,202€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,350€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,619€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,236€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,253€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,446€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,842€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,163€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,180€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,309€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,564€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,210€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,227€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,397€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,790€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,149€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,166€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,283€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,495€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,189€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,206€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,358€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,670€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,131€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,148€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,250€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,451€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,210€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,227€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,355€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Todo riesgo con franquicia,781€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,151€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,168€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,261€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Todo riesgo con franquicia,389€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,116€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,133€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,222€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,387€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,190€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,207€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,355€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Todo riesgo con franquicia,706€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,135€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,152€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,257€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Todo riesgo con franquicia,389€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,104€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,121€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,200€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,350€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,122€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,139€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,234€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Todo riesgo con franquicia,389€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,95€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,112€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,182€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,312€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,109€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,126€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,209€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Todo riesgo con franquicia,356€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,85€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,102€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,164€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 I-GET,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,283€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,347€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,364€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,653€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,19,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,1.228€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,292€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,309€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,551€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,19,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,1.042€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,277€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,294€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,522€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,19,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,976€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,233€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,250€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,441€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,19,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,829€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,262€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,279€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,495€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,992€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,185€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,202€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,350€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,619€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,236€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,253€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,446€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,842€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,163€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,180€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,309€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,564€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros sin asistencia en viaje,210€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros con asistencia en viaje,227€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Terceros ampliado,397€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),22,Todo riesgo con franquicia,790€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,149€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,166€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,283€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,495€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros sin asistencia en viaje,189€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros con asistencia en viaje,206€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Terceros ampliado,358€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",22,Todo riesgo con franquicia,670€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,131€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,148€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,250€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,22,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,451€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,210€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,227€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,357€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),26,Todo riesgo con franquicia,781€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,151€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,168€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,263€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),23,Todo riesgo con franquicia,395€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,116€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,133€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,222€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,08001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,387€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,190€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,207€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,357€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Todo riesgo con franquicia,706€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,135€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,152€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,257€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Todo riesgo con franquicia,395€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,104€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,121€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,200€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,08001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,350€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros sin asistencia en viaje,169€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros con asistencia en viaje,186€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Terceros ampliado,277€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),26,Todo riesgo con franquicia,622€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros sin asistencia en viaje,122€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros con asistencia en viaje,139€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Terceros ampliado,234€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),23,Todo riesgo con franquicia,395€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros sin asistencia en viaje,95€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros con asistencia en viaje,112€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Terceros ampliado,182€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,28001,A1 (para conducir motos de hasta 125cc),19,Todo riesgo con franquicia,312€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros sin asistencia en viaje,152€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros con asistencia en viaje,169€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Terceros ampliado,277€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",26,Todo riesgo con franquicia,564€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros sin asistencia en viaje,109€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros con asistencia en viaje,126€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Terceros ampliado,209€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",23,Todo riesgo con franquicia,356€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros sin asistencia en viaje,85€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros con asistencia en viaje,102€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Terceros ampliado,164€
+PIAGGIO,MEDLEY,125 cc,MEDLEY 125 S I-GET,15 CV,2020,2020,26,28001,"A2 (para motos de hasta 35kw y 0,2 kw/kg o motos limitadas)",19,Todo riesgo con franquicia,283€
