@@ -11,7 +11,7 @@ Creation of a predictor of a motorbike insurance per type of insurance consideri
 
 
 ## Notebooks:
-* Insurance model: analysis of the dataset and models creation and result
+* Insurance model: analysis of the dataset and models creation and results (3 models for each insurance type)
 * Rastreator scraping: a document with the script used to extract all data for each motorbike brand scraped
 
 
